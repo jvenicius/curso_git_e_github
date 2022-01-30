@@ -1,0 +1,26 @@
+git add <file>
+git add.
+git --rm cached <file>
+git commit -m "<mensagem>"
+git log
+
+# lista
+git branch
+# cria
+git branch <nome>
+# muda
+git checkout <nome>
+# merge as branch
+git merge <branch>
+# verificar remote
+git remote
+# altera nome da branch
+git branch -M <nome>
+# empurrar para nuvem github
+git push -u origin main
+
+#atualizar remoto para o local
+git pull
+git pull origin main
+
+git clone <linkdorepositorio>
